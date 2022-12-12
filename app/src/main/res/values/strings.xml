@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GitHub User App</string>
+    <string name="user_name">User</string>
+    <string name="name">Name</string>
+    <string name="repository_count">0</string>
+    <string name="followers_count">0</string>
+    <string name="following_count">0</string>
+    <string name="company">Company</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="location">Location</string>
+    <string name="bio">Bio</string>
+
+    <string name="repositoryUP">REPOSITORY</string>
+    <string name="followersUP">FOLLOWERS</string>
+    <string name="followingUP">FOLLOWING</string>
+    <string name="repos_name">Repos Name</string>
+    <string name="description">Description</string>
+    <string name="share">Bagikan</string>
+
+    <string name="share_link">More information:
+        https://github.com/</string>
+
+    <string name="search">Search</string>
+    <string name="slogan">The place for anyone from anywhere to build anything!</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_list">My Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+
+</resources>
