@@ -1,6 +1,6 @@
-# githubsearch-app
+# Github Search User Application
 
-**Final Submission: Github User Application**
+![githubuserapp](https://user-images.githubusercontent.com/108212568/220532440-55d5e947-d21f-4663-b5df-e3425ada85c0.jpg)
 
 This is the final submission to graduate from the Android Application Fundamentals Learning class organized by IDCampXdicoding.
 
