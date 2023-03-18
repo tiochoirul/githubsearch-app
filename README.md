@@ -1,6 +1,6 @@
 # Github Search User Application
 
-This is the final submission to graduate from the Android Application Fundamentals Learning class organized by IDCampXdicoding.
+This is the final submission to graduate from the Android Application Fundamentals Learning class organized by IDCampXdicoding. GitHub Search App is a simple Android application built using Kotlin language. This app allows users to search for GitHub users and display their basic information such as username, avatar, and bio.
 
 ![githubuserapp](https://user-images.githubusercontent.com/108212568/220532440-55d5e947-d21f-4663-b5df-e3425ada85c0.jpg)
 
